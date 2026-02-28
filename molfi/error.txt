@@ -1,0 +1,4 @@
+﻿[dotenv@17.2.4] injecting env (5) from .env.local -- tip: ≡ƒæÑ sync secrets across teammates & machines: https://dotenvx.com/ops
+Generating typings for: 3 artifacts in dir: typechain-types for target: ethers-v6
+Successfully generated 92 typings!
+Compiled 3 Solidity files successfully (evm target: paris).
